@@ -1,0 +1,22 @@
+{
+  "name": "Octo Expansion SFX",
+  "description": "Steam UI replaced with Splatoon 3: Side Order UI sounds.",
+  "author": "masong1056",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [
+  "steam_os_startup.wav",
+  "pop_sound.wav",
+  "bumper_end.wav",
+  "confirmation_positive.wav",
+  "deck_ui_tile_scroll.wav",
+  "confirmation_negative.wav",
+  "deck_ui_message_toast.wav",
+  "deck_ui_misc_01.wav",
+  "deck_ui_misc_08.wav",
+  "camera1.wav",
+  "silence.wav"
+],
+  "mappings": {}
+}
